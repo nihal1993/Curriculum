@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Curriculum/static/css/main.fb885964.chunk.css",
+    "main.js": "/Curriculum/static/js/main.1bd1e523.chunk.js",
+    "main.js.map": "/Curriculum/static/js/main.1bd1e523.chunk.js.map",
+    "runtime-main.js": "/Curriculum/static/js/runtime-main.bd972e5c.js",
+    "runtime-main.js.map": "/Curriculum/static/js/runtime-main.bd972e5c.js.map",
+    "static/css/2.9b1c0336.chunk.css": "/Curriculum/static/css/2.9b1c0336.chunk.css",
+    "static/js/2.6c9da21e.chunk.js": "/Curriculum/static/js/2.6c9da21e.chunk.js",
+    "static/js/2.6c9da21e.chunk.js.map": "/Curriculum/static/js/2.6c9da21e.chunk.js.map",
+    "index.html": "/Curriculum/index.html",
+    "precache-manifest.43db53b20970592d55fb52e9b9875d30.js": "/Curriculum/precache-manifest.43db53b20970592d55fb52e9b9875d30.js",
+    "service-worker.js": "/Curriculum/service-worker.js",
+    "static/css/2.9b1c0336.chunk.css.map": "/Curriculum/static/css/2.9b1c0336.chunk.css.map",
+    "static/css/main.fb885964.chunk.css.map": "/Curriculum/static/css/main.fb885964.chunk.css.map",
+    "static/js/2.6c9da21e.chunk.js.LICENSE.txt": "/Curriculum/static/js/2.6c9da21e.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Curriculum/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd972e5c.js",
+    "static/css/2.9b1c0336.chunk.css",
+    "static/js/2.6c9da21e.chunk.js",
+    "static/css/main.fb885964.chunk.css",
+    "static/js/main.1bd1e523.chunk.js"
+  ]
+}
