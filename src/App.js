@@ -62,7 +62,7 @@ class ItemList extends React.Component {
         
   }
   downItem(param){
-    if(this.state.itemsArray.indexOf(param) < this.state.itemsArray.length){
+    if(this.state.itemsArray.indexOf(param) < this.state.itemsArray.length-1){
       var update = this.state.itemsArray;
       var to = update.indexOf(param);
       var from = update.indexOf(param)+1;
